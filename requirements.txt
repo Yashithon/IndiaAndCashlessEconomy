@@ -2,7 +2,8 @@ streamlit
 pandas
 matplotlib
 openpyxl
-numpy==1.21.0
-Cython==0.29.36
-pystan==2.19.1.1
-prophet==1.1.2
+numpy
+plotly
+scikit-learn
+# If Prophet installation fails, comment it out and use alternatives:
+# prophet
