@@ -3,3 +3,4 @@ prophet
 pandas
 matplotlib
 openpyxl
+fbprophet
