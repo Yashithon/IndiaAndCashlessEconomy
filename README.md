@@ -69,7 +69,7 @@ Data Source
 NPCI Product Statistics (https://www.npci.org.in/statistics)
 
 All data was manually compiled into a structured Excel file for analysis.
-
+Once you have cloned the repo- type the "streamlit run analysis1.py" in your command prompt to run the project.
 Results
 UPI shows exponential growth post-2019
 
