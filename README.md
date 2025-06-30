@@ -58,7 +58,11 @@ Where:
 - Confidence interval shown as shaded regions
 - Based on learned historical patterns
 
-## Usage
+Screenshots(just for glancing on how the ui looks like-if you want to see it properly run the code)-
+![image](https://github.com/user-attachments/assets/8c058c4d-355e-47c1-9ebc-9bb378bdd681)
+![image](https://github.com/user-attachments/assets/f59eded5-24dd-4298-a792-ff7e92246bda)
+![image](https://github.com/user-attachments/assets/400b1500-15a8-4f5b-8f8d-79d64a76e991)
+![image](https://github.com/user-attachments/assets/19cf6706-f436-45cd-ae3c-c7190a826ebb)
 
 ### Run Locally
 
