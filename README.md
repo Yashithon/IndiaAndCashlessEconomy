@@ -1,5 +1,4 @@
-# India and the Rise of CashlessEconomy-AI-powered Forecasting of Digital Payments Using Time Series Modeling
-# Cashless Economy in India: Forecasting Digital Payments (2016–2035)
+# India and the Rise of Cashless Economy-AI-powered Analysing(2016-2025) and Forecasting of Digital Payments Using Time Series Modeling(2016-2035)
 
 This project presents a data-driven dashboard that analyzes and forecasts the evolution of India’s digital payment platforms — UPI, IMPS, and FASTag — from 2016 to 2025, with projections up to 2035. It uses actual transaction data collected from NPCI and applies machine learning-based time series forecasting using Facebook Prophet. The visual interface is built using Streamlit.
 
